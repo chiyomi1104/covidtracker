@@ -15,6 +15,6 @@ This is a web app for people to track the covid19 positive case, death case, and
 Please visit [Covid19 Tracker](covid19trackworld.netlify.app).
 
 ## Images and API
-[Image:](https://i.ibb.co/7QpKsCX/image.png)
-[API:](https://covid19.mathdro.id/api)
+- [Image](https://i.ibb.co/7QpKsCX/image.png)
+- [API](https://covid19.mathdro.id/api)
 
